@@ -1,0 +1,35 @@
+name: Bug report
+description: Report something that is not working in the desktop app.
+title: '[Bug]: '
+body:
+  - type: input
+    id: version
+    attributes:
+      label: Stage Visuals version
+      description: Find it in the downloaded package name or Windows Installed apps.
+    validations:
+      required: true
+  - type: input
+    id: system
+    attributes:
+      label: Operating system and processor
+      placeholder: Windows 11 x64
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+    validations:
+      required: true
+  - type: textarea
+    id: behavior
+    attributes:
+      label: Expected and actual behavior
+    validations:
+      required: true
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Additional context
+      description: Add screenshots, clip properties, or error messages. Do not attach private footage or personal information.
