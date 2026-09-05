@@ -6,9 +6,9 @@ HUD, and exports vertical videos.
 
 ## Downloads
 
-The first Windows x64 beta is being prepared. When published, download the setup
-EXE or portable ZIP from this repository's **Releases** page and verify it with
-the attached SHA-256 checksum file.
+The first Windows x64 beta is available from this repository's **Releases** page.
+Download the setup EXE or portable ZIP and verify it with the attached SHA-256
+checksum file.
 
 The app includes its video-processing tools. You do not need Node.js, FFmpeg,
 Docker, a browser, or terminal setup. macOS builds are planned but are not part

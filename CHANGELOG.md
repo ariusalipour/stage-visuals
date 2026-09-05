@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.1.0-beta.1 — pending
+## 0.1.0-beta.1 — 2026-09-05
 
 - First Windows x64 desktop pre-release.
 - Local import, analysis, timeline correction, scoring, and MP4 export.
